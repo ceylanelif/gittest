@@ -57,7 +57,7 @@
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
   <Sequence DisplayName="Sequence" sap2010:WorkflowViewState.IdRef="Sequence_1">
-    <adac:MessageBox DisplayName="Mesaj Kutusu " sap2010:WorkflowViewState.IdRef="MessageBox_2" Text="[&quot;1234&quot;]" />
+    <adac:MessageBox DisplayName="Mesaj Kutusu " Text="[&quot;123&quot;]" sap2010:WorkflowViewState.IdRef="MessageBox_2" />
     <sads:DebugSymbol.Symbol>dw1DOlxFbXB0eS54YW1sAA==</sads:DebugSymbol.Symbol>
   </Sequence>
   <sap2010:WorkflowViewState.ViewStateManager>
